@@ -69,7 +69,6 @@ class ImageCard extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Container(
-        margin: const EdgeInsets.symmetric(horizontal: 20.0, vertical: 10.0),
         padding: padding,
         decoration: BoxDecoration(
             color: backgroundColor,
